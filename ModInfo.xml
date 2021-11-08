@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="ElectricityLampsPOI" />
+		<Description value="Switches POI lights to ElectricityLamps" />
+		<Website value="https://github.com/OCB7D2D/ElectricityLampsPOI" />
+		<Author value="mgreter" />
+		<Version value="0.1.0" />
+	</ModInfo>
+</xml>
