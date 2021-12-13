@@ -50,7 +50,7 @@ sub printProperty {
 
 foreach my $light (@lights) {
 	print "\t<append xpath=\"/blocks/block[\@name='$light->[0]']\">\n";
-	printProperty('Class', 'ElectricityLight, Harmony-ElectricityLamps');
+	printProperty('Class', 'ElectricityLight, ElectricityLamps');
 	printProperty('LightMode', $light->[1]);
 	printProperty('LightMinIntensity', $light->[2]);
 	printProperty('LightIntensity', $light->[3]);

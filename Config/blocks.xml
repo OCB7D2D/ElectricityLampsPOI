@@ -1,6 +1,6 @@
 <configs>
 	<append xpath="/blocks/block[@name='porchLight01']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -18,7 +18,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='porchLight04']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -36,7 +36,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='porchLight04Brass']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -54,7 +54,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='ceilingLight01']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -72,7 +72,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='ceilingLight02']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -90,7 +90,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='ceilingLight02Brass']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -108,7 +108,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='ceilingLight04']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -126,7 +126,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='ceilingLight05']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -144,7 +144,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='ceilingLight05Brass']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -162,7 +162,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='recessedLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -180,7 +180,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='wallLight01']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -198,7 +198,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='ceilingLight07']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -216,7 +216,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='fluorescentLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -235,7 +235,7 @@
 		<property name="ActivationDistance" value="4"/>
 	</append>
 	<append xpath="/blocks/block[@name='trackLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -253,7 +253,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='industrialLight01']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -271,7 +271,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='sconce1Light']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -289,7 +289,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='industrialLight02']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -307,7 +307,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='industrialLight02Red']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -325,7 +325,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='ceilingFanLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -343,7 +343,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='chandelierLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -361,7 +361,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='candelabraLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -379,7 +379,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='signExitLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -397,7 +397,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='roadBarricadeLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -415,7 +415,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='deskLampLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -433,7 +433,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='tableLampLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -451,7 +451,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='tableLampTippedOverLight']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -469,7 +469,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='workLightPOI']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -487,7 +487,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='streetLight01']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -505,7 +505,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='streetLightClassic']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
@@ -523,7 +523,7 @@
 		<property name="TakeDelay" value="5"/>
 	</append>
 	<append xpath="/blocks/block[@name='spotlightNailedDownPOI']">
-		<property name="Class" value="ElectricityLight, Harmony-ElectricityLamps"/>
+		<property name="Class" value="ElectricityLight, ElectricityLamps"/>
 		<property name="LightMode" value="1"/>
 		<property name="LightMinIntensity" value="0.2"/>
 		<property name="LightIntensity" value="1"/>
